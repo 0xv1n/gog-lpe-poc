@@ -1,0 +1,4 @@
+LIBRARY IPHLPAPI
+
+EXPORTS
+    GetAdaptersInfo=_GetAdaptersInfo@8
